@@ -1,4 +1,11 @@
-EX-21-POINTERS
+# NAME : VISWAJITH LALITHRAM R.V
+# REG.NO : 212224240187
+# BRANCH : AIML
+
+
+
+
+# EX-21-POINTERS
 # AIM:
 Write a C program to convert a 23.65 into 25 using pointer
 
